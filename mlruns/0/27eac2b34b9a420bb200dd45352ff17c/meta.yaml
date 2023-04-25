@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/PAVILION/PycharmProjects/pythonProject4/mlruns/0/27eac2b34b9a420bb200dd45352ff17c/artifacts
+end_time: 1682445906819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27eac2b34b9a420bb200dd45352ff17c
+run_name: placid-bird-800
+run_uuid: 27eac2b34b9a420bb200dd45352ff17c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682445901449
+status: 3
+tags: []
+user_id: PAVILION
